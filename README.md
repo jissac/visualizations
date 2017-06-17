@@ -7,4 +7,7 @@ http://www.randalolson.com/2016/03/04/revisiting-the-vaccine-visualizations/
 
 ## Datasets
 **Health**   
-http://www.tycho.pitt.edu/
+Public Health: http://www.tycho.pitt.edu/   
+
+**Social**
+FB Graph API: https://developers.facebook.com/docs/graph-api
