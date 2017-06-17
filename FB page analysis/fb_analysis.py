@@ -1,3 +1,6 @@
+## Using Graph API
+## Based on tutorial: http://www.kdnuggets.com/2017/06/6-interesting-things-facebook-python.html
+
 import requests
 import time
 import pickle
