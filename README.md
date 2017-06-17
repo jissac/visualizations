@@ -1,5 +1,5 @@
 # visualizations
-A collection of data visualization code and learning resources   
+A collection of data analysis/visualization code and learning resources   
 
 ## Blogs   
 Vaccine visualizations   
