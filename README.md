@@ -11,3 +11,7 @@ Public Health: http://www.tycho.pitt.edu/
 
 **Social**   
 FB Graph API: https://developers.facebook.com/docs/graph-api
+
+**Helpful Hints**
+matplotlib tutorial: http://pbpython.com/effective-matplotlib.html      
+
